@@ -1,5 +1,4 @@
-# json module: javascript object notation(json data)
-import json
+import json # this module is used to work with json (javascript object notation) data
 
 data = '{"var1": "vikash", "var2": "shubhum"}'
 # print(data)

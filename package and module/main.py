@@ -1,3 +1,4 @@
+# In python each file with .py extension is module. Modules allow you to organize your code into reusable units. 
 # import func
 # import func as a
 # from func import Func1

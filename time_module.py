@@ -1,4 +1,4 @@
-# Date and Time function in python
+# Module to work with date and time
 # import time
 
 # localtime = time.asctime(time.localtime(time.time()))
