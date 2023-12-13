@@ -40,6 +40,11 @@ This project will demonstrate the learning of python concepts.
 - **Modules and Packages**:
   - Importing modules
   - Creating and using packages
-- **Modules and Packages**:
-  - Importing modules
-  - Creating and using packages
+- **Exception Handling**:
+  - try, except, else, finally blocks
+  - Handling specific exceptions
+- **Functional Programming**:
+  - Higher-order functions
+  - Map, filter, reduce functions
+- **Virtual Environments**:
+  - Using virtual environments to manage dependencies
